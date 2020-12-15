@@ -5,8 +5,8 @@
 class UUIDCheck < Formula
   desc "UUID Validator"
   homepage "https://bitbucket.org/infomaker/"
-  url  "https://s3-eu-west-1.amazonaws.com/cca-dev-bill-temp/uuid-check/uuid-check-2020-12-15T193533-4834483.tar.gz"
-  sha256 "f829d08c9989a94d2ea747ec76efd5c9dc097ddc32eb6ecb0c2dcfa825065070"
+  url  "https://s3-eu-west-1.amazonaws.com/cca-dev-bill-temp/uuid-check/uuid-check-2020-12-15T194059-.tar.gz"
+  sha256 "40ec09b59d938a408bb9381bf1cc8472003980aa14d9c4a48b4fb71700c26df6"
 
   def install
     bin.install "uuid-check"
